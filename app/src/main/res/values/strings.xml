@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Advisor</string>
+    <string name="movies">Movies</string>
+    <string name="find_movie">Find Movie!</string>
+    <string name="Genre">The movie is about the following Genre</string>
+    <string-array name="movie_genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Sports</item>
+        <item>Romantic</item>
+    </string-array>
+</resources>
